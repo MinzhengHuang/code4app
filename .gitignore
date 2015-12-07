@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+code4app/build/*
+code4app/.idea/*
+code4app/.gradle/*
+code4app/bin/*
